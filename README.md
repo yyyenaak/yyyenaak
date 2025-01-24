@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm yena</h1>
+<h1 align="left">조예나 입니다</h1>
 <a href="https://solved.ac/yyyenaak"><img align="right" src="http://mazandi.herokuapp.com/api?handle=yyyenaak&theme=warm"/></a>
 
-<h3 align="left">A passionate frontend developer from Korea</h3>
+<h3 align="left">Frontend developer</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
