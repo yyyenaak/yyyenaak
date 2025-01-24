@@ -2,6 +2,7 @@
 <a href="https://solved.ac/yyyenaak"><img align="right" src="http://mazandi.herokuapp.com/api?handle=yyyenaak&theme=cold"/></a>
 
 <h3 align="left">리액트에 미쳐살고싶은 프론트엔드 개발자인데욥</h3>
+<h5>그동안 작업물들 날려보내구 새로운 다짐, 새로운 시쟉쓰</h5>
 <br>
 <h3 align="left">Connect</h3>
 <p align="left">
