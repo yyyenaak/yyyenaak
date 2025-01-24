@@ -1,5 +1,5 @@
 <h1 align="left">조예나 입니다</h1>
-<a href="https://solved.ac/yyyenaak"><img align="right" src="http://mazandi.herokuapp.com/api?handle=yyyenaak&theme=warm"/></a>
+<a href="https://solved.ac/yyyenaak"><img align="right" src="http://mazandi.herokuapp.com/api?handle=yyyenaak&theme=cold"/></a>
 
 <h3 align="left">Frontend developer</h3>
 <br>
