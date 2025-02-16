@@ -1,4 +1,4 @@
-<h1 align="left">옴뇸뇸, 예나입니당</h1>
+<h1 align="left">옴뇸뇸, 안녕하세요. 예나입니당!</h1>
 <!-- <a href="https://solved.ac/yyyenaak"><img align="right" src="http://mazandi.herokuapp.com/api?handle=yyyenaak&theme=cold"/></a> -->
 
 <h3 align="left">리액트에 미쳐살고싶은 프론트엔드 개발자인데욥</h3>
@@ -21,7 +21,7 @@
 
 <br>
 
-🏢 유컴패니온 - 프론트엔드 개발 <sub>(2023.12 ~ 2024.08)</sub><br/>
+🏢 유컴패니온 - 프론트엔드 개발, 기획 <sub>(2023.12 ~ 2024.08)</sub><br/>
 🏢 데이터핀 - 기획 및 개발 프리랜서 <sub>(2023.07 ~ 2023.12)</sub><br/>
 🏫 안양대학교 - 컴퓨터공학과, 데이터사이언스학과 <sub>(2020.03 ~ 2025.02)</sub>
 
